@@ -1,6 +1,4 @@
-<img src="empresa.png" alt="Logo Empresa" width="200"/>
-
-# HB Tech Junior
+<img src="logo.png" alt="Logo Empresa" width="200"/>
 
 > ### Tecnología con visión y solidez
 
@@ -11,7 +9,7 @@ Somos HB Tech Junior, un equipo de dos desarrolladores que combina frontend, vis
 
 ---
 
-## 🚀 Sobre Nosotros
+## Sobre Nosotros
 
 Somos **HB Tech Junior**, un equipo dinámico de dos desarrolladores con una visión fresca, sólida formación y un gran entusiasmo por aprender y aportar soluciones reales. Nuestra fortaleza radica en la complementariedad de nuestros roles:
 
@@ -20,7 +18,7 @@ Somos **HB Tech Junior**, un equipo dinámico de dos desarrolladores con una vis
 
 Juntos, damos forma a proyectos que no solo funcionan, sino que también comunican y generan un impacto positivo. Creemos en el desarrollo como una herramienta para simplificar procesos, comunicar información de manera efectiva y abrir nuevas oportunidades.
 
-## 🛠️ Nuestras Habilidades
+## Nuestras Habilidades
 
 Manejamos un conjunto de tecnologías modernas que nos permiten adaptarnos rápidamente y afrontar desafíos en distintos niveles de un proyecto:
 
@@ -32,7 +30,7 @@ Manejamos un conjunto de tecnologías modernas que nos permiten adaptarnos rápi
 -   **Testing & QA**: Jest, Pytest, Selenium, JUnit, Cucumber, Gherkin, REST Assured
 -   **Herramientas**: Git, Figma, Postman
 
-## 🌟 Nuestro Equipo
+## Nuestro Equipo
 
 Nuestro estilo de trabajo se basa en la **comunicación clara, el aprendizaje continuo y el compromiso con la calidad**.
 
@@ -43,7 +41,7 @@ Su pasión está en hacer que las soluciones funcionen sin fricciones: desde la 
 
 Esta sinergia nos permite entregar proyectos completos, consistentes y de alta calidad.
 
-## 📂 Proyectos Destacados
+## Proyectos Destacados
 
 Algunos proyectos que hemos desarrollado, aplicando nuestras habilidades:
 
@@ -76,7 +74,7 @@ Algunos proyectos que hemos desarrollado, aplicando nuestras habilidades:
 
 ---
 
-## 📫 Contacto
+## Contacto
 
 ¿Tienes una idea o un proyecto en mente? ¡Hablemos!
 
